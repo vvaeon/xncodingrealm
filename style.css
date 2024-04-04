@@ -1,0 +1,69 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {  
+  background-color:black;
+  background-size: cover;
+}
+.door{
+  position: absolute;
+  top: 50px;
+  left: 70px;
+}
+.door2 {
+  position: absolute;
+  top: 270px;
+  left: 530px; 
+
+}
+.door3 {
+  position: absolute;
+  top: 500px;
+  left: 790px;
+}
+.door4 {
+  position: absolute;
+  top: 10px;
+  left: 1400px;
+  
+}
+.eye {
+  position: absolute;
+  top: 150px;
+  left: 890px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
