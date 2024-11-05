@@ -3,7 +3,7 @@ html {
   width: 100%;
 }
 body {  
-  background-color:black;
+  background-image: url("img/backpath.png"); 
   background-size: cover;
   height: 80vh
 }
