@@ -5,7 +5,6 @@ html {
 body {  
   background-image: url("img/backpath.png"); 
   background-size: cover;
-  height: 80vh
 }
 .door{
   position: absolute;
