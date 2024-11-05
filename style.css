@@ -3,7 +3,7 @@ html {
   width: 100%;
 }
 body {  
-  background-image: url("img/backpath.png"); 
+  background-color: black ; 
   background-size: cover;
 }
 .door{
