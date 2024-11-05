@@ -5,6 +5,7 @@ html {
 body {  
   background-color:black;
   background-size: cover;
+  height: 80vh
 }
 .door{
   position: absolute;
@@ -13,13 +14,13 @@ body {
 }
 .door2 {
   position: absolute;
-  top: 270px;
-  left: 530px; 
+  top: 230px;
+  left: 430px; 
 
 }
 .door3 {
   position: absolute;
-  top: 500px;
+  top: 400px;
   left: 790px;
 }
 .door4 {
