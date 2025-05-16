@@ -8,12 +8,12 @@ body {
 }
 .door{
   position: absolute;
-  top: 50px;
+  top: 230px;
   left: 70px;
 }
 .door2 {
   position: absolute;
-  top: 230px;
+  top: 40px;
   left: 430px; 
 
 }
@@ -28,11 +28,7 @@ body {
   left: 1400px;
   
 }
-.eye {
-  position: absolute;
-  top: 70px;
-  left: 780px;
-}
+
 
 
 
